@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "MadimiOne-Regular";
+  src: url(../font/MadimiOne-Regular.ttf);
+}
+
+@font-face {
+  font-family: "MeieScript";
+  src: url(../font/MeieScript-Regular.ttf);
+}
+
+body {
+  font-family: "MadimiOne-Regular";
+  background-color: #c5b8a6;
+}
+
+section {
+  background-color: transparent;
+}
+
+h1 {
+  font-family: "MeieScript";
+  color: #6d3f3b;
+  font-size: 60px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.low-shadow {
+  -webkit-box-shadow: 11px 17px 39px 0px rgba(0, 0, 0, 0.3);
+  box-shadow: 11px 17px 39px 0px rgba(0, 0, 0, 0.3);
+}
+
+.text-shadow {
+  text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.25);
+}

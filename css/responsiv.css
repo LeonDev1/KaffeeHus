@@ -1,0 +1,10 @@
+@media (min-width: 1000px) {
+  .header-images {
+    margin-top: 80px;
+    scale: 1.35;
+  }
+
+  .cappuccino-text {
+    margin-top: 100px;
+  }
+}
