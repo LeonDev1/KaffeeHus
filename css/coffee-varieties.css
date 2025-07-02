@@ -10,6 +10,7 @@
 .coffee-var-bg {
   height: 90vh;
   width: 90%;
+  /* padding: 50px 0 50px 0; */
   background-color: #d0c5b3;
   border-radius: 15px;
   display: flex;

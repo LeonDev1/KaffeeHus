@@ -17,3 +17,21 @@
     height: 200px;
   }
 }
+
+@media (max-width: 950px) {
+  .coffee-var-bg {
+    padding: 50px 0 50px 0;
+  }
+
+  .cappuccino-text {
+    margin-bottom: 30px;
+  }
+
+  .product {
+    padding-right: 60px;
+  }
+
+  .bottom-container {
+    font-size: 2px;
+  }
+}
