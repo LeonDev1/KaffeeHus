@@ -11,6 +11,7 @@
 body {
   font-family: "MadimiOne-Regular";
   background-color: #c5b8a6;
+  overflow-x: hidden;
 }
 
 section {
@@ -23,7 +24,12 @@ h1 {
   font-size: 60px;
 }
 
+p {
+  font-size: 25px;
+}
+
 * {
+  /* outline: red solid 2px; */
   margin: 0;
   padding: 0;
 }

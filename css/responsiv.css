@@ -1,10 +1,19 @@
-@media (min-width: 1000px) {
+@media (max-width: 1200px) {
   .header-images {
-    margin-top: 80px;
-    scale: 1.35;
+    height: 410px;
+    width: 100vw;
   }
 
-  .cappuccino-text {
-    margin-top: 100px;
+  .left-image {
+    height: 410px;
+    width: 256px;
+  }
+
+  .right-images {
+    height: 410px;
+  }
+
+  .right-images img {
+    height: 200px;
   }
 }
