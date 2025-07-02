@@ -1,0 +1,22 @@
+#impressum {
+  position: relative;
+  height: auto;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  background-color: #d0c5b3;
+  color: #6d3f3b;
+}
+
+#impressum a {
+  color: #6d3f3b;
+  display: inline-block;
+  transition: transform 0.3s ease-out;
+}
+
+#impressum a:hover {
+  transform: scale(1.05);
+}

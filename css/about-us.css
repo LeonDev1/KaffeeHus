@@ -22,15 +22,16 @@
 }
 
 .bottom-container {
-  width: 100%;
+  width: 90%;
   height: auto;
   display: flex;
+  padding: 40px;
   gap: 10px;
 }
 
 .our-craft {
   margin-top: 50px;
-  width: 90%;
+  width: 100%;
   height: auto;
   padding: 40px;
   background-color: #d0c5b3;
